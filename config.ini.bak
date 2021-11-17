@@ -1,0 +1,24 @@
+[wework]
+# 企业ID(企业微信后台： 我的企业->企业信息->企业ID)
+corp_id = wwe14*******
+# 自建应用的secret(企业微信后台： 应用管理->自建应用->Secre点查看)
+app_secret = Q5AQS5rttyaJ1-1nz6k2hIfjldiUi_Wg8v1hkT8bgn0
+# 自建应用设置api接收时填写的token
+token =
+# 自建应用设置api接收时填写的EncodingAESKey
+encodingaeskey =
+# 素材库中的图片id（用于推送图文消息，可不填写）
+media_id =
+
+[notion]
+# private integrations 授权码
+relation_code =
+# 授权关系数据库id
+relation_database_id =
+# public integrations 中的 client_id
+client_id =
+# public integrations 中的 client_secret
+client_secret =
+# public integrations 回调地址
+redirect_uri =
+
