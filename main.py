@@ -149,7 +149,7 @@ def keyword_check(mag_content: str, user_name: str):
         return True
     if "开始".__eq__(mag_content):
         start(user_name)
-        return
+        return True
 
 
 def image_message(message):
